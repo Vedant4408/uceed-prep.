@@ -1,0 +1,6 @@
+{
+  "name": "UCEED Prep Lab",
+  "description": "Comprehensive UCEED PYQ practice, timed mock examination interface, Part B drawing studio, and AI-powered performance analytics platform for IIT Bombay design entrance preparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
